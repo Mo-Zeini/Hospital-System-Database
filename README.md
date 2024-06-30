@@ -95,39 +95,46 @@ The database schema is represented in the following ER diagram:
 ### Retrieve all data from the SPECIALTY table:
 ```sql
 SELECT * FROM SPECIALTY;
+```
 
 ### Retrieve all data from the DOCTOR table:
 ```sql
 SELECT * FROM DOCTOR;
+```
 
 ### Retrieve all data from the ALLERGY table:
 ```sql
 SELECT * FROM ALLERGY;
+```
 
 ### Retrieve all data from the MEDICINE table:
 ```sql
 SELECT * FROM MEDICINE;
+```
 
 ### Retrieve all data from the PATIENT table:
 ```sql
 SELECT * FROM PATIENT;
+```
 
 ### Retrieve all data from the APPOINTMENT table:
 ```sql
 SELECT * FROM APPOINTMENT;
+```
 
 ### Retrieve all data from the PATIENT_MEDICINE table:
 ```sql
 SELECT * FROM PATIENT_MEDICINE;
+```
 
 ### Retrieve all data from the PATIENT_ALLERGY table:
 ```sql
 SELECT * FROM PATIENT_ALLERGY;
-
+```
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Mo-Zeini/Habit-Tracking-App/blob/main/LICENSE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Mo-Zeini/Hospital-System-Database/blob/main/LICENSE.txt) file for details.
 
 ## Author
 
@@ -135,4 +142,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Acknowledgements
 
-- This app was developed as part of a project assigned by the university IU International University of Applied Sciences for the Bachelor of Applied Artificial Intelligence program.
+- This project was developed as part of a project assigned by the university UoPeople for the Bachelor of Computer Science program.
